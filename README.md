@@ -1,4 +1,4 @@
-![header](./Yohan%20Ambinintsoa.png)
+![header](./YohanBanner.png)
 
 ### <div align="center">I'm Yohan, a full-time full-stack freelance developer 👨‍💻 actually an IT student 🚀</div>  
   
