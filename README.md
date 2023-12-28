@@ -1,4 +1,4 @@
-![header](./Yohan Ambinintsoa.png)
+![header](./Yohan%20Ambinintsoa.png)
 
 <!--
 **YohanAmbinintsoa/YohanAmbinintsoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
